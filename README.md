@@ -1,10 +1,10 @@
 # Face recognition using dlib
 
 ## Libraries Used 
- ->numpy
- ->opencv-python
- ->dlib
- ->scikit-image
+ -numpy 
+ -opencv-python 
+ -dlib 
+ -scikit-image
 
 ## Installation
 
